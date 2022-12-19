@@ -10,8 +10,6 @@
 
 ![](./img/open-runway-numbers.png)
 
-ICAO Annex 14にて定義されている、滑走路番号の文字を模したフォントです。収録文字は以下の通りです。
-
 The font imitates the runway number characters as defined in ICAO Annex 14. This includes following glyphs:
 
 ```
