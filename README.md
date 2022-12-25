@@ -36,12 +36,18 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 0 1 2 3 4 5 6 7 8 9 - /
 ```
 
-Also this includes some Roman numerals for ILS Catrgory. However, they are currently assigned to different character codes due to the restriction of the software. This problem is going to be fixed in the future version.
+Also this includes some Roman numerals for ILS Catrgory and arrows. However, they are currently assigned to different character codes due to the restriction of the software. This problem is going to be fixed in the future version.
 
 ```
 Ⅰ as ! (Shift + 1)
 Ⅱ as @ (Shift + 2)
 Ⅲ as # (Shift + 3)
+← as a
+↑ as w
+→ as d
+↓ as s
+↖ as q 
+↗ as e
 ```
 
 This font doesn't includes Latin Small alphabets but these characters have "space" (blank) glyph to avoid switching fonts in Illustrator and so on.
