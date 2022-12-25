@@ -60,8 +60,9 @@ All fonts in this pack is under CC0. You can use them in any medium, including w
 
 However, please note these fonts are not intended for use in actual aircraft and airport operations. 
 
-## Download the Release version
+## Download
 
+Download the latest version from the [Releases](https://github.com/ryo-a/Open-Runway-Fonts/releases) page of this repository.
 
 ## Contributors
 

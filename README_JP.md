@@ -61,6 +61,8 @@ ICAO Annex 14 における *TAXIING GUIDANCE SIGNS* を模したフォントで�
 
 ## ダウンロード
 
+この GitHub リポジトリの [Releases](https://github.com/ryo-a/Open-Runway-Fonts/releases) ページから最新のものをダウンロードしてください。
+
 ## コントリビューター
 
 Open Taxiway Mandatory Signについて、[七色さん](https://at.tumblr.com/7-typ/67d6e4v0g9hk)にメトリクスのチェックと助言を行っていただきました。ここに深謝の意を表します。
