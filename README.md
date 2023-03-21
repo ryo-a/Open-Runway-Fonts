@@ -2,7 +2,7 @@
 
 **[日本語版はこちら](./README_JP.md)**
 
-**Open Runway Fonts** is an open-source font pack that imitates runway related characters. All font files in this pack are under CC0 license, so you can use them completely free.
+**Open Runway Fonts** is an open-source font pack that imitates runway related characters. All font files in this pack are under CC0 license and SIL Open Font License, so you can use them completely free.
 
 ## Fonts in this pack
 
@@ -62,7 +62,7 @@ This will be released in the near future. Stay tuned!
 
 ## License
 
-All fonts in this pack are under CC0. You can use them in any medium, including web, print, video and embedded in software/hardware. You also can redistribute these fonts. You don't need to contact the author.
+All fonts in this pack are under CC0 or SIL Open Font License (dual license). You can use them in any medium, including web, print, video and embedded in software/hardware. You also can redistribute these fonts. You don't need to contact the author.
 
 However, please note these fonts are not intended for use in actual aircraft and airport operations. 
 
